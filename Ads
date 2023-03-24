@@ -1,5 +1,5 @@
 {
-    "variable1": true,
+    "variable1": false,
     "variable2": false,
-    "variable3": true
+    "variable3": false
 }
