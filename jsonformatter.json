@@ -1,5 +1,5 @@
 {
-  "UseBoth": false,
+  "UseBoth": true,
   "UseApplovinOnly": false,
-  "UseUnityOnly": true
+  "UseUnityOnly": false
 }
